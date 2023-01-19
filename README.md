@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Daniel Mendes
--  I'm currently learning Python for Data Analysis and Rest API
--  I'm interested in participating in crm/erp project
--  I have technical knowledge in Salesforce - development 
--  I’m interested to collaborate on project in which a can learn more. 
+"Hey There!" \o/ 👋
+My name is Daniel Mendes and I'm from Brazil (🇧🇷). I've been working and studying as a Full Stack Developer since 2019. Currently I'm empowering myself to work in new scenarios abroad where I can learn from different perspectives and share experiences.
+
+Would you like to find me?
 
 <div>
  <a href="https://www.linkedin.com/in/daniel-albuquerque-0a693215a/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
