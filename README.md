@@ -1,5 +1,5 @@
 "Hey There!" \o/ 👋
-My name is Daniel Mendes and I'm from Brazil (🇧🇷). I've been working and studying as a Full Stack Developer since 2019. Currently I'm empowering myself to work in new scenarios abroad where I can learn from different perspectives and share experiences.
+My name is Daniel Mendes and I'm from Brazil (🇧🇷). I'm working and studying as a Full Stack Developer since 2019. Currently I'm empowering myself to work in new scenarios abroad where I can learn from different perspectives and share experiences.
 
 Would you like to find me?
 
