@@ -7,22 +7,3 @@
   <a href="https://www.linkedin.com/in/daniel-albuquerque-0a693215a/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
  <a href="https://api.whatsapp.com/send?phone=5511964548597" rel="nofollow"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  </div>
-<style>
-    .div-1 {
-        background-color: #EBEBEB;
-    }
-    
-    .div-2 {
-    	background-color: #ABBAEA;
-    }
-    
-    .div-3 {
-    	background-color: #FBD603;
-    }
-</style>
-
-<body>
-    <div class="div-1"> I love HTML </div>
-    <div class="div-2"> I love CSS </div>
-    <div class="div-3"> I love JavaScript </div>
-</body>
