@@ -10,3 +10,7 @@
  <a href="https://api.whatsapp.com/send?phone=5511964548597" rel="nofollow"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  </div>
 </body>
+
+.daniel{
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXPZWr32lYrxNBseEXOpzVEFc9QdzIcs3dg&usqp=CAU");
+ }
