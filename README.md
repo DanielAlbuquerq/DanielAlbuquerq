@@ -1,5 +1,5 @@
 
-<body background-image: url('[img_girl.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXPZWr32lYrxNBseEXOpzVEFc9QdzIcs3dg&usqp=CAU)');> 
+<body background-color: white;> 
  "Hey There!" \o/ 👋
  My name is Daniel Mendes and I'm from Brazil (🇧🇷). I'm working and studying as a Full Stack Developer since 2019. Currently I'm empowering myself to work in new scenarios abroad where I can learn from different perspectives and share experiences.
 
