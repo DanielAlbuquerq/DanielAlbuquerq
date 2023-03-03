@@ -3,11 +3,12 @@
  
 Curiosities about me:
 
-I'm a fast learner.
-I Learned to play Acoustic Guitar on YouTube's Channels.
-I learned English by myself on Youtube's Channels.
-I'm a big fan of W3school and Stackoverflow.
-I can't live without Spotify.
+:rocket:I'm a fast learner.  
+:open_file_folder:I'm a big fan of W3schools and Stackoverflow.  
+:computer:I learned English by myself on Youtube's Channels.    
+:guitar:I Learned to play Acoustic Guitar on YouTube's Channels.   
+:pencil:I love to write song.  
+:radio:I can't live without Spotify.  
 
  Would you like to find me?
 
