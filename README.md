@@ -1,5 +1,13 @@
  "Hey There!" \o/ 👋
- My name is Daniel Mendes and I'm from Brazil (🇧🇷). I'm working and studying as a Full Stack Developer. Currently I'm empowering myself to work in new scenarios abroad where I can learn from different perspectives and share experiences.
+ My name is Daniel Mendes and I'm from Brazil (🇧🇷). I'm working and studying as a Full Stack Developer. Currently, I'm empowering myself to work in new scenarios abroad where I can learn from different perspectives and share experiences.
+ 
+Curiosities about me:
+
+I'm a fast learner.
+I Learned to play Acoustic Guitar on YouTube's Channels.
+I learned English by myself on Youtube's Channels.
+I'm a big fan of W3school and Stackoverflow.
+I can't live without Spotify.
 
  Would you like to find me?
 
