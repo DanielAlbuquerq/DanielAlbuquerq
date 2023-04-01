@@ -7,12 +7,10 @@ Curiosities about me:
 
 :rocket:I'm a fast learner.  
 :open_file_folder:I'm a big fan of W3schools and Stackoverflow.  
-:computer:I learned English by myself on Youtube's Channels.    
-:guitar:I Learned to play Acoustic Guitar on YouTube's Channels.   
-:pencil:I love to write song.  
-:radio:I can't live without Spotify.  
+:computer:I learned English by myself on Youtube's Channels.       
+:pencil:I love to write song.   
 
-   ### Take a look at my suggestion to Spotify and let me know if you think it might be a better idea. Project => https://danielalbuquerq.github.io/SpotifyProject/
+   ### Take a look at my suggestion to Spotify Project => https://danielalbuquerq.github.io/SpotifyProject/
 
  Would you like to find me?
 
