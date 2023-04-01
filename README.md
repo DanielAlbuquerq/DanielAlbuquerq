@@ -10,7 +10,7 @@ Curiosities about me:
 :computer:I learned English by myself on Youtube's Channels.       
 :pencil:I love to write song.   
 
-   ### Take a look at my suggestion to Spotify Project => https://danielalbuquerq.github.io/SpotifyProject/
+   ### Take a look at my suggestion to Spotify => https://danielalbuquerq.github.io/SpotifyProject/
 
  Would you like to find me?
 
