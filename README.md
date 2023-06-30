@@ -1,7 +1,7 @@
  "Hey There!" \o/ 👋
 My name is Daniel Mendes and I'm from Brazil (🇧🇷). I'm a person who likes to expand and explore my imagination and bring it to the technology world, I like to learn from different perspectives and share experiences. I'm working and studying as a Full Stack Developer.    
 
-Currently, I'm studding React.js, TypeScript, CSS3 and bootstrap to write well-structured code and customize website and mobile websites for a better User Experience. 
+Currently, I'm doing personal projects to acquire more skills in Javascript, HTML, CSS, Node.js, React.js, and bootstrap to write well-structured code and customize website and mobile websites for a better User Experience. 
 
 Curiosities about me:
 
