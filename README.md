@@ -10,6 +10,7 @@ Curiosities about me:
 :computer:I learned English by myself on Youtube's Channels.       
 :pencil:I love to write song.   
 
+   ### Current Course I'm taking: https://www.udemy.com/course/the-complete-web-development-bootcamp/ (start date: 20/07/2023)
    ### Take a look at my suggestion to Spotify => https://danielalbuquerq.github.io/SpotifyProject/
 
  Would you like to find me?
