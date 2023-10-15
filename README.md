@@ -7,11 +7,8 @@ Curiosities about me:
 :open_file_folder:I'm a big fan of W3schools and Stackoverflow.  
 :computer: I learned English by myself on YouTube's Channels.       
 :pencil: I love to write songs.   
-
-   ### Current Project: https://github.com/DanielAlbuquerq/ToDo_List_Node-Express-Ejs<br /> That's a perfect project. I'm using ToDo List to implement architecture, database, and JavaScript libraries.
  
    ### Current Course I'm taking: https://www.udemy.com/course/the-complete-web-development-bootcamp/ (start date: 20/07/2023)
-   ### Take a look at my suggestion to Spotify => https://danielalbuquerq.github.io/SpotifyProject/
 
  #### Would you like to find me?
 
