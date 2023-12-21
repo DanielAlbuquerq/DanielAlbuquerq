@@ -9,7 +9,7 @@ Curiosities about me:
 :computer: I learned English by myself.    
 :pencil: I love to write songs.   
  
-   ### Current Course I'm taking: https://www.udemy.com/course/the-complete-web-development-bootcamp/ (start date: 20/07/2023)
+   ### Current Course: https://www.udemy.com/course/the-complete-web-development-bootcamp/ (start date: 20/07/2023)
 
  #### Would you like to find me?
 
