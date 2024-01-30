@@ -1,15 +1,14 @@
  "Hey There!" \o/ 👋
-My name is Daniel Mendes and I'm from Brazil (🇧🇷). I'm a person who likes to expand and explore my imagination and bring it to the technology world, in the tech world you get surprised every day when you learn something new and understand how stacks connect with one another.
+My name is Daniel Mendes and I'm from Brazil (🇧🇷). I'm a person who likes to expand and explore my imagination and bring it to the technology world, in the tech world you get surprised every day when you learn something new and understand how stacks connect.
 
 :open_file_folder:W3schools or MDN Web Docs?
 
 Curiosities about me:
-
-:rocket: I'm a fast learner.  
+  
 :computer: I learned English by myself.    
 :pencil: I love to write songs.   
  
-   ### Current Course: https://www.udemy.com/course/the-complete-web-development-bootcamp/ (start date: 20/07/2023)
+   ### Current Project: https://github.com/DanielAlbuquerq/mern-blog
 
  #### Would you like to find me?
 
