@@ -1,7 +1,7 @@
  "Hey There!" \o/ 👋
 My name is Daniel Mendes and I'm from Brazil (🇧🇷). I'm a person who likes to expand and explore my imagination and bring it to the technology world, in the tech world you get surprised every day when you learn something new and understand how stacks connect.
 
-:open_file_folder:W3schools or MDN Web Docs?
+And Yes. I use console.log for JavaScript debugging 
 
 Curiosities about me:
   
