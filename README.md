@@ -9,7 +9,7 @@ Curiosities about me:
 :pencil: I love to write songs.   
  
    ### Current Project: https://github.com/DanielAlbuquerq/mern-blog
-   ### Current course: https://www.udemy.com/course/understanding-typescript/?kw=typescrip&src=sac&couponCode=ST8MT40924Experience
+   ### Current Course: https://www.udemy.com/course/understanding-typescript/?kw=typescrip&src=sac&couponCode=ST8MT40924Experience
 
  #### Would you like to find me?
 
