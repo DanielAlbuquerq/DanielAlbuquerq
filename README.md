@@ -2,14 +2,6 @@
 I'm Daniel, I'm from Brazil (🇧🇷). I'm a person who likes to expand and explore my imagination and bring it to the technology world.
 And yes. I use console.log for debugging.
 
-## Technical Skills
-#### Languages: JavaScript, TypeScript, SQL    
-#### Frontend: HTML5, CSS3, ReactJS, Redux, Tailwind CSS, CSS-in-JS, Bootstrap, MaterialUI  
-#### Backend: Node.js, Express.js, Sequelize, Swagger UI  
-#### Databases: PostgreSQL, MongoDB, MySQL  
-#### Tools & DevOps: Git, GitHub,  Docker, Cloud Infrastructure, Logging Tools, Postman/Insomnia (for testing APIs)  
-#### Other Skills: Debugging, Bug Triage, Workflow Documentation  
-
 ### Curiosities about me:
   
 :computer: I learned English by myself.    
