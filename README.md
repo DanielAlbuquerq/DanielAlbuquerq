@@ -1,9 +1,21 @@
- "Hey There!" \o/ 👋
-My name is Daniel Mendes and I'm from Brazil (🇧🇷). I'm a person who likes to expand and explore my imagination and bring it to the technology world, in the tech world you get surprised every day when you learn something new and understand how stacks connect.
+##  "Hey There!" \o/ 👋
+I'm Daniel, I'm from Brazil (🇧🇷). I'm a person who likes to expand and explore my imagination and bring it to the technology world.
+And yes. I use console.log for debugging.
 
-And yes. I use console.log for debugging
+## Technical Skills
+Languages: JavaScript, TypeScript, Rust, SQL
 
-Curiosities about me:
+Frontend: ReactJS, Angular
+
+Backend: Node.js, Express, Rust
+
+Databases: PostgreSQL, MongoDB
+
+Tools & DevOps: Git, Docker, Linux, Cloud Infrastructure, Logging Tools
+
+Other Skills: Debugging, Bug Triage, Workflow Documentation
+
+### Curiosities about me:
   
 :computer: I learned English by myself.    
 :pencil: I love to write songs.   
