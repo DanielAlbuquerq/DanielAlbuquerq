@@ -1,6 +1,6 @@
 ##  "Hey There!" \o/ 👋
 I'm Daniel, I'm from Brazil (🇧🇷). I'm a person who likes to expand and explore my imagination and bring it to the technology world.
-And yes. I use console.log for debugging.
+I thrive in dynamic environments, enjoying collaboration with a motivated team. I excel at brainstorming innovative ideas, breaking down complex challenges, and crafting effective solutions
 
 ### Curiosities about me:
   
