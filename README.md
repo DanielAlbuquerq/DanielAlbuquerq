@@ -1,6 +1,5 @@
 ##  "Hey There!" \o/ 👋
-I'm Daniel, I'm from Brazil (🇧🇷). I'm a person who likes to expand and explore my imagination and bring it to the technology world.
-I thrive in dynamic environments, enjoying collaboration with a motivated team. I excel at brainstorming innovative ideas, breaking down complex challenges, and crafting effective solutions
+I’m a versatile professional skilled in building traditional and cloud-native applications. Experienced in UI development, server-side logic, API design, and database management using both monolithic and microservices architectures. Strong in debugging, refactoring, and team collaboration to deliver scalable, high-quality solutions.
 
 ### Curiosities about me:
   
