@@ -5,9 +5,6 @@ I’m a versatile professional skilled in building traditional and cloud-native 
   
 :computer: I learned English by myself.    
 :pencil: I love to write songs.   
- 
-   ### Current Project: https://github.com/DanielAlbuquerq/mern-blog
-   ### Current Course: https://www.udemy.com/course/understanding-typescript/?kw=typescrip&src=sac&couponCode=ST8MT40924Experience
 
  #### Would you like to find me?
 
